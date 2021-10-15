@@ -53,7 +53,10 @@ input {
 }
 
 
-
+.error{
+  color: red;
+  font: bold;
+}
 
 
 label {
@@ -129,4 +132,8 @@ a:hover {
 a:active {
   box-shadow: none;
   top: 5px;
+}
+
+h2{
+  text-align: center;
 }
